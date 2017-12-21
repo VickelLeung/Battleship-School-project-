@@ -10,7 +10,7 @@ it's a 8 by 8 grid and each player/computer will places their ships and grenades
 
 
 
-Information about coding
+***Information about coding***
 The game is made with java using class and encapsulations.
 I used an array of 8 by 8 to store and display ships/grenade each turns.
 When the user input a character and number, the program used a switch statement to classify it to rows and columns to put in grid.
