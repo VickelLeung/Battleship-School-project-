@@ -4,6 +4,5 @@ a game console game made during winter semester 2017, the main goal of the game 
 -Each player takes turn placing their ships/grenade.
 -if a player hit a grenates, then they will lose a turn.
 
-[battleship.png](https://postimg.org/image/p7xdfkv2z/)
-
+![alt text](https://postimg.org/image/p7xdfkv2z/)
 
